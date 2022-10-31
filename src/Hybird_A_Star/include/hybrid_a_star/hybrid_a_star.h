@@ -1,5 +1,3 @@
-
-
 #ifndef HYBRID_A_STAR_HYBRID_A_STAR_H
 #define HYBRID_A_STAR_HYBRID_A_STAR_H
 

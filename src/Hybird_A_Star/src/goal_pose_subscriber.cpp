@@ -1,5 +1,3 @@
-
-
 #include "hybrid_a_star/goal_pose_subscriber.h"
 
 GoalPoseSubscriber2D::GoalPoseSubscriber2D(ros::NodeHandle &nh, const std::string &topic_name, size_t buff_size) {

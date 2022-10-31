@@ -1,5 +1,3 @@
-
-
 #include "hybrid_a_star/init_pose_subscriber.h"
 
 InitPoseSubscriber2D::InitPoseSubscriber2D(ros::NodeHandle &nh,

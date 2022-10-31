@@ -1,5 +1,3 @@
-
-
 #include "hybrid_a_star/hybrid_a_star.h"
 #include "hybrid_a_star/display_tools.h"
 #include "hybrid_a_star/timer.h"

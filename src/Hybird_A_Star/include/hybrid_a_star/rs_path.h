@@ -1,5 +1,3 @@
-
-
 #ifndef HYBRID_A_STAR_RS_PATH_H
 #define HYBRID_A_STAR_RS_PATH_H
 

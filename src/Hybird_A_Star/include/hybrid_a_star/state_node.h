@@ -1,4 +1,3 @@
-
 #ifndef HYBRID_A_STAR_STATE_NODE_H
 #define HYBRID_A_STAR_STATE_NODE_H
 

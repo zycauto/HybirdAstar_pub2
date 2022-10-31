@@ -1,5 +1,3 @@
-
-
 #include "hybrid_a_star/hybrid_a_star_flow.h"
 
 #include <nav_msgs/Path.h>

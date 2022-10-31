@@ -1,5 +1,3 @@
-
-
 #include "hybrid_a_star/rs_path.h"
 
 #include <glog/logging.h>

@@ -1,5 +1,3 @@
-
-
 #include "hybrid_a_star/costmap_subscriber.h"
 
 CostMapSubscriber::CostMapSubscriber(ros::NodeHandle &nh, const std::string &topic_name, size_t buff_size) {
